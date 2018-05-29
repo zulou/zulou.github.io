@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Bienvenidos: Marcial Ronald
+=======
+## Welcome to GitHub Pages
+>>>>>>> parent of 458878f... Cambio marcial
 
 You can use the [editor on GitHub](https://github.com/zulou/zulou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
